@@ -1,0 +1,24 @@
+body{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    display: flex;
+    padding: 12px 80px;
+    align-items: center;
+    
+}
+
+.left-menu-item{
+    display: flex;
+    gap: 20px;
+}
+.right-menu-items{
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+}
+nav a:hover{
+    border-bottom: 2.5px solid black
+}
+
+
